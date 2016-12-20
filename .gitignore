@@ -1,3 +1,7 @@
+#Typescript
+*.js.map
+app/**/*.js
+
 # Logs
 logs
 *.log
